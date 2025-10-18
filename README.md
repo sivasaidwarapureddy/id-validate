@@ -268,4 +268,4 @@ Response
          </prev>
 🧾 License
 
-MIT © 2025 – Developed by FSD team.
+MIT © 2025 – Developed by FSD team
